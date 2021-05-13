@@ -1,0 +1,8 @@
+﻿# used only for local testing
+/MS.SVGReader.Main/Program.cs
+
+/.idea/
+/.git/
+
+/MS.SVGReader.Main/bin/
+/MS.SVGReader.Main/obj/
